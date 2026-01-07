@@ -5,9 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Mini_HelloCash.DataAccess.Database.Daos
+namespace Mini_HelloCash.DataAccess.Database.Daos;
+
+internal class RoleDao : IRoleDao
 {
-    internal class RoleDao : IRoleDao
-    {
-    }
 }
